@@ -1,10 +1,5 @@
 # license-key
 
-[![Build Status](https://travis-ci.org/hyperboloide/lk.svg?branch=master)](https://travis-ci.org/hyperboloide/lk)
-[![GoDoc](https://godoc.org/github.com/hyperboloide/lk?status.svg)](https://godoc.org/github.com/hyperboloide/lk)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hyperboloide/lk)](https://goreportcard.com/report/github.com/hyperboloide/lk)
-[![cover.run go](https://cover.run/go/github.com/hyperboloide/lk.svg)](https://cover.run/go/github.com/hyperboloide/lk)
-
 A simple licensing library in Golang, that generates license files
 containing arbitrary data.
 
@@ -27,7 +22,7 @@ A command line helper `lkgen` is also provided to generate private keys and crea
 Install it with the following command :
 
 ```sh
-go install github.com/hyperboloide/lk/lkgen
+go install github.com/motiv-labs/licensinator/lkgen
 ```
 
 See the usage bellow on how to use it (or enter `lkgen --help-long`):
