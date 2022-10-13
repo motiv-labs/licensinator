@@ -1,12 +1,12 @@
 # lkgen
-`lkgen` is a license generation and validation utility using the [lk](https://github.com/hyperboloide/lk) library as a backend.
+`lkgen` is a license generation and validation utility using the [licensinator](https://github.com/motiv-labs/licensinator) library as a backend.
 
 It can be used standalone to generate cypto keys, sign and validate license keys.
 
 Install it with the following command :
 
 ```sh
-go install github.com/hyperboloide/lk/lkgen
+go install github.com/motiv-labs/licensinator/lkgen
 ```
 
 ## Complete flow example:
