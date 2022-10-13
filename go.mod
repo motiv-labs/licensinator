@@ -1,6 +1,6 @@
-module github.com/hyperboloide/lk
+module github.com/motiv-labs/licensinator
 
-go 1.17
+go 1.19
 
 require (
 	github.com/dchest/uniuri v0.0.0-20220929095258-3027df40b6ce

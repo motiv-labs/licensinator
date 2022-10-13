@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
+	"gopkg.in/alecthomas/kingpin.v2"
 	"io"
 	"log"
 	"os"
 
-	"github.com/hyperboloide/lk"
-	"gopkg.in/alecthomas/kingpin.v2"
+	lk "github.com/motiv-labs/licensinator"
 )
 
 var (
